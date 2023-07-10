@@ -1,0 +1,91 @@
+2023-05-10 11:59:04,004 - INFO - src.util.menu - Menu was display
+2023-05-10 11:59:06,630 - INFO - src.util.menu - The option 1 was selected
+2023-05-10 11:59:06,643 - INFO - src.util.menu - Second menu was iniated
+2023-05-10 11:59:07,661 - INFO - src.util.menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:04:46,777 - INFO - Menu - Menu was display
+2023-05-10 12:04:47,689 - INFO - Menu - The option 1 was selected
+2023-05-10 12:04:47,689 - INFO - Menu - Second menu was iniated
+2023-05-10 12:04:48,921 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:04:50,845 - INFO - Menu - Movement devices selected
+2023-05-10 12:04:50,932 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:04:53,512 - INFO - Sensor created: Name: Movement, Status on, Devices: []
+2023-05-10 12:04:53,600 - INFO - Menu - Showing object: ['Temperature', 'go back']
+2023-05-10 12:04:56,920 - INFO - Menu - Returning to the previous menu
+2023-05-10 12:04:56,920 - INFO - Menu - Menu was display
+2023-05-10 12:05:00,223 - INFO - Menu - The option 3 was selected
+2023-05-10 12:05:00,226 - INFO - Menu - Menu finished
+2023-05-10 12:49:02,161 - INFO - Menu - Menu was display
+2023-05-10 12:49:03,216 - INFO - Menu - The option 1 was selected
+2023-05-10 12:49:03,216 - INFO - Menu - Second menu was iniated
+2023-05-10 12:49:04,630 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:49:05,772 - INFO - Menu - Movement devices selected
+2023-05-10 12:49:05,853 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:49:07,110 - INFO - Sensor created: Name: Movement, Status on, Devices: []
+2023-05-10 12:49:07,195 - INFO - Menu - Showing object: ['Temperature', 'go back']
+2023-05-10 12:49:10,529 - INFO - Menu - Returning to the previous menu
+2023-05-10 12:49:10,529 - INFO - Menu - Menu was display
+2023-05-10 12:49:12,306 - INFO - Menu - The option 3 was selected
+2023-05-10 12:49:12,306 - INFO - Menu - Menu finished
+2023-05-10 12:50:19,031 - INFO - Menu - Menu was display
+2023-05-10 12:50:21,168 - INFO - Menu - The option 1 was selected
+2023-05-10 12:50:21,169 - INFO - Menu - Second menu was iniated
+2023-05-10 12:50:22,538 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:50:23,754 - INFO - Menu - Movement devices selected
+2023-05-10 12:50:23,842 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:52:35,268 - INFO - Menu - Menu was display
+2023-05-10 12:52:36,197 - INFO - Menu - The option 1 was selected
+2023-05-10 12:52:36,198 - INFO - Menu - Second menu was iniated
+2023-05-10 12:52:37,244 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:52:39,095 - INFO - Menu - Movement devices selected
+2023-05-10 12:52:39,193 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:53:58,406 - INFO - Menu - Menu was display
+2023-05-10 12:53:59,071 - INFO - Menu - The option 1 was selected
+2023-05-10 12:53:59,071 - INFO - Menu - Second menu was iniated
+2023-05-10 12:54:00,472 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:54:01,476 - INFO - Menu - Movement devices selected
+2023-05-10 12:54:01,561 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:55:09,015 - INFO - Menu - Menu was display
+2023-05-10 12:55:09,872 - INFO - Menu - The option 1 was selected
+2023-05-10 12:55:09,872 - INFO - Menu - Second menu was iniated
+2023-05-10 12:55:10,811 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:55:11,674 - INFO - Menu - Movement devices selected
+2023-05-10 12:55:11,764 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:55:15,581 - INFO - Menu - Showing object: ['Camera', 'Light', 'go back']
+2023-05-10 12:55:17,857 - INFO - Sensor created: Name: Movement, Status on, Devices: [{name:Television,
+        status:off }]
+2023-05-10 12:55:17,943 - INFO - Menu - Showing object: ['Temperature', 'go back']
+2023-05-10 12:55:20,593 - INFO - Menu - Returning to the previous menu
+2023-05-10 12:55:20,593 - INFO - Menu - Menu was display
+2023-05-10 12:58:46,625 - INFO - Menu - Menu was display
+2023-05-10 12:58:47,366 - INFO - Menu - The option 1 was selected
+2023-05-10 12:58:47,366 - INFO - Menu - Second menu was iniated
+2023-05-10 12:58:48,323 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 12:58:49,791 - INFO - Menu - Movement devices selected
+2023-05-10 12:58:49,877 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 12:58:53,489 - INFO - Television - Television Creacted, Status: False
+2023-05-10 12:58:53,569 - INFO - Menu - Showing object: ['Camera', 'Light', 'go back']
+2023-05-10 12:58:55,145 - INFO - Sensor created: Name: Movement, Status on, Devices: [{name:Television,
+        status:off }]
+2023-05-10 12:58:55,243 - INFO - Menu - Showing object: ['Temperature', 'go back']
+2023-05-10 13:01:54,470 - INFO - Menu - Menu was display
+2023-05-10 13:01:54,999 - INFO - Menu - The option 1 was selected
+2023-05-10 13:01:54,999 - INFO - Menu - Second menu was iniated
+2023-05-10 13:02:54,919 - INFO - Menu - Menu was display
+2023-05-10 13:02:55,932 - INFO - Menu - The option 1 was selected
+2023-05-10 13:02:55,932 - INFO - Menu - Second menu was iniated
+2023-05-10 13:02:56,900 - INFO - LivingRoom - LivingRoom was created with the sensor []
+2023-05-10 13:02:56,992 - INFO - Menu - Showing object: ['Movement', 'Temperature', 'go back']
+2023-05-10 13:02:57,746 - INFO - Menu - Movement devices selected
+2023-05-10 13:02:57,829 - INFO - Menu - Showing object: ['Television', 'Camera', 'Light', 'go back']
+2023-05-10 13:03:01,608 - INFO - Television - Television Creacted, Status: False
+2023-05-10 13:03:01,693 - INFO - Menu - Showing object: ['Camera', 'Light', 'go back']
+2023-05-10 13:03:21,540 - INFO - Camera - Camera Creacted, Status: False
+2023-05-10 13:03:21,635 - INFO - Menu - Showing object: ['Light', 'go back']
+2023-05-10 13:03:32,678 - INFO - Sensor created: Name: Movement, Status on, Devices: [{name:Television,
+        status:off }, {name:Camera,
+        status:off }]
+2023-05-10 13:03:32,767 - INFO - Menu - Showing object: ['Temperature', 'go back']
+2023-05-10 13:03:39,423 - INFO - Menu - Returning to the previous menu
+2023-05-10 13:03:39,424 - INFO - Menu - Menu was display
+2023-05-10 13:03:41,631 - INFO - Menu - The option 3 was selected
+2023-05-10 13:03:41,637 - INFO - Menu - Menu finished

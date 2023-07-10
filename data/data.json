@@ -1,0 +1,89 @@
+[
+  {
+    "sensor": {
+      "name": "Movement",
+      "state": "on",
+      "place": "bedroom",
+      "devices": [
+        {
+          "name": "Light",
+          "status": false
+        },
+        {
+          "name": "Camera",
+          "status": false
+        }
+      ]
+    }
+  },
+  {
+    "sensor": {
+      "name": "Temperature",
+      "state": "on",
+      "place": "bedroom2",
+      "devices": [
+        {
+          "name": "aircondicioner",
+          "status": false
+        },
+        {
+          "name": "Window",
+          "status": false
+        }
+      ],
+      "temperature": 40
+    }
+  },
+  {
+    "sensor": {
+      "name": "Movement",
+      "state": "on",
+      "place": "living room",
+      "devices": [
+        {
+          "name": "Television",
+          "status": false
+        },
+        {
+          "name": "Window",
+          "status": false
+        }
+      ]
+    }
+  },
+  {
+    "sensor": {
+      "name": "Temperature",
+      "state": "on",
+      "place": "bedroom3",
+      "devices": [
+        {
+          "name": "aircondicioner",
+          "status": false
+        },
+        {
+          "name": "Window",
+          "status": false
+        }
+      ],
+      "temperature": 15
+    }
+  },
+  {
+    "sensor": {
+      "name": "Movement",
+      "state": "on",
+      "place": "Dining room",
+      "devices": [
+        {
+          "name": "Television",
+          "status": false
+        },
+        {
+          "name": "Window",
+          "status": false
+        }
+      ]
+    }
+  }
+]
