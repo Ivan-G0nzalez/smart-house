@@ -1,4 +1,4 @@
-#Smart House
+# Smart House
 
 The project consists of creating a sensor system for a smart home. For this project we use Object Oriented Programming, we also used the observer pattern to manage the devices associated with a sensor.
 
